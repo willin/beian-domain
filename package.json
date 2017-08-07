@@ -6,8 +6,11 @@
   "author": "willin <willin@willin.org>",
   "license": "Apache-2.0",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gbk": "^0.1.0",
     "node-phantom-simple": "^2.2.4",
-    "phantomjs-prebuilt": "^2.1.14"
+    "phantomjs-prebuilt": "^2.1.14",
+    "request": "^2.81.0"
   },
   "devDependencies": {
     "eslint": "^4.4.0",
