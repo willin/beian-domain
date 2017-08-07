@@ -2,14 +2,15 @@
   "name": "beian-domain",
   "version": "1.0.0",
   "main": "src/index.js",
+  "scripts": {
+    "prepare": "node src/compile.js"
+  },
   "repository": "git@github.com:willin/beian-domain.git",
   "author": "willin <willin@willin.org>",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "gbk": "^0.1.0",
-    "node-phantom-simple": "^2.2.4",
-    "phantomjs-prebuilt": "^2.1.14",
     "request": "^2.81.0"
   },
   "devDependencies": {

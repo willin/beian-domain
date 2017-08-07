@@ -2,9 +2,51 @@
 
 获取最新可备案域名列表爬虫
 
-- total domains: 451
-- unique domains: 420
-- 生成日期: 2017.08.08
+[![npm](https://img.shields.io/npm/v/beian-domain.svg?style=plastic)](https://npmjs.org/package/beian-domain) [![npm](https://img.shields.io/npm/dm/beian-domain.svg?style=plastic)](https://npmjs.org/package/beian-domain) [![npm](https://img.shields.io/npm/dt/beian-domain.svg?style=plastic)](https://npmjs.org/package/beian-domain)
+
+## 用法
+
+```bash
+npm i -S beian-domain
+# or
+yarn add beian-domain
+```
+
+```js
+const bd = require('beian-domain');
+
+(async () => {
+  const result = await bd();
+  console.log(result);
+})();
+```
+
+结果格式:
+
+```js
+{ total: 451,
+  unique: 420,
+  domains:
+   [ '.ac',
+     '.ac.cn',
+     '...'
+   ] }
+```
+
+## License
+
+MIT
+
+通过支付宝捐赠：
+
+![qr](https://cloud.githubusercontent.com/assets/1890238/15489630/fccbb9cc-2193-11e6-9fed-b93c59d6ef37.png)
+
+## 更新时间: 2017-8-8
+
+- 域名总数: 451
+- 惟一域名: 420
+
+---
 
 - .ac
 - .ac.cn
@@ -426,3 +468,4 @@
 - .网络.cn
 - .集团
 - .香港
+
