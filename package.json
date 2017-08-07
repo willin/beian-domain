@@ -1,0 +1,16 @@
+{
+  "name": "beian-domain",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:willin/beian-domain.git",
+  "author": "willin <willin@willin.org>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-phantom-simple": "^2.2.4",
+    "phantomjs-prebuilt": "^2.1.14"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.0",
+    "eslint-config-dwing": "^1.1.0"
+  }
+}
