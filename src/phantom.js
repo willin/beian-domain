@@ -40,7 +40,7 @@ driver.create({
             const arr = [...new Set(domains)];
             console.log('unique domains:', arr.length);
             console.log('-------');
-            console.log(arr.join('\n'));
+            console.log(arr.sort().join('\n'));
             browser.exit();
             process.exit();
           }
