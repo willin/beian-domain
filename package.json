@@ -1,5 +1,6 @@
 {
   "name": "beian-domain",
+  "description": "最新可备案域名查询爬虫",
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
