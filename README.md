@@ -41,10 +41,10 @@ MIT
 
 ![qr](https://cloud.githubusercontent.com/assets/1890238/15489630/fccbb9cc-2193-11e6-9fed-b93c59d6ef37.png)
 
-## 更新时间: 2017-8-8
+## 更新时间: 2018-5-8
 
-- 域名总数: 451
-- 惟一域名: 420
+- 域名总数: 491
+- 惟一域名: 436
 
 ---
 
@@ -64,6 +64,7 @@ MIT
 - .aq
 - .ar
 - .arpa
+- .art
 - .as
 - .asia
 - .at
@@ -76,6 +77,7 @@ MIT
 - .bb
 - .bd
 - .be
+- .beer
 - .bf
 - .bg
 - .bh
@@ -97,11 +99,14 @@ MIT
 - .cat
 - .cc
 - .cd
+- .center
 - .cf
 - .cg
 - .ch
+- .chat
 - .ci
 - .citic
+- .city
 - .ck
 - .cl
 - .club
@@ -133,6 +138,8 @@ MIT
 - .com.sg
 - .com.tw
 - .com.vn
+- .company
+- .cool
 - .coop
 - .cq.cn
 - .cr
@@ -142,6 +149,7 @@ MIT
 - .cy
 - .cz
 - .de
+- .design
 - .dj
 - .dk
 - .dm
@@ -154,6 +162,7 @@ MIT
 - .edu.mo
 - .ee
 - .eg
+- .email
 - .er
 - .es
 - .et
@@ -165,6 +174,8 @@ MIT
 - .fm
 - .fo
 - .fr
+- .fun
+- .fund
 - .ga
 - .gb
 - .gd
@@ -177,6 +188,7 @@ MIT
 - .gl
 - .gm
 - .gn
+- .gold
 - .gov
 - .gov.cn
 - .gp
@@ -187,6 +199,7 @@ MIT
 - .gs.cn
 - .gt
 - .gu
+- .guru
 - .gw
 - .gx.cn
 - .gy
@@ -239,12 +252,16 @@ MIT
 - .ky
 - .kz
 - .la
+- .law
 - .lb
 - .lc
 - .li
+- .life
 - .link
+- .live
 - .lk
 - .ln.cn
+- .love
 - .lr
 - .ls
 - .lt
@@ -299,6 +316,7 @@ MIT
 - .nx.cn
 - .nz
 - .om
+- .online
 - .or.id
 - .org
 - .org.au
@@ -313,12 +331,14 @@ MIT
 - .ph
 - .pk
 - .pl
+- .plus
 - .pm
 - .pn
 - .pr
 - .pro
 - .ps
 - .pt
+- .pub
 - .pw
 - .py
 - .qa
@@ -329,6 +349,7 @@ MIT
 - .ro
 - .rs
 - .ru
+- .run
 - .rw
 - .sa
 - .sb
@@ -341,6 +362,7 @@ MIT
 - .sh
 - .sh.cn
 - .shop
+- .show
 - .si
 - .site
 - .sj
@@ -350,9 +372,11 @@ MIT
 - .sn
 - .sn.cn
 - .so
+- .social
 - .sohu
 - .sr
 - .st
+- .store
 - .su
 - .sv
 - .sx.cn
@@ -360,6 +384,8 @@ MIT
 - .sz
 - .tc
 - .td
+- .team
+- .tech
 - .tel
 - .tf
 - .tg
@@ -371,6 +397,7 @@ MIT
 - .tm
 - .tn
 - .to
+- .today
 - .top
 - .tp
 - .tr
@@ -391,33 +418,18 @@ MIT
 - .ve
 - .vg
 - .vi
+- .video
 - .vip
 - .vn
 - .vu
 - .wang
 - .wf
+- .wiki
+- .work
+- .world
 - .ws
 - .xin
 - .xj.cn
-- .xn--1qqw23a
-- .xn--3bSt00M
-- .xn--55Qw42G
-- .xn--55Qx5D
-- .xn--55qx5d.hk
-- .xn--55qx5d.xn--j6w193g
-- .xn--6qQ986B3xL
-- .xn--czRu2D
-- .xn--fiQs8S
-- .xn--fiQz9S
-- .xn--fiq64b
-- .xn--io0A7I
-- .xn--j6w193g
-- .xn--od0AlG
-- .xn--ses554g
-- .xn--vuq861b
-- .xn--xhq521b
-- .xn--zfR164B
-- .xn—czru2d
 - .xyz
 - .xz.cn
 - .ye
@@ -426,6 +438,7 @@ MIT
 - .za
 - .zj.cn
 - .zm
+- .zone
 - .zw
 - .中信
 - .中国
@@ -451,6 +464,7 @@ MIT
 - .广东
 - .我爱你
 - .手机
+- .招聘
 - .政务
 - .政务.cn
 - .政务.中国
@@ -466,6 +480,8 @@ MIT
 - .网店
 - .网络
 - .网络.cn
+- .购物
 - .集团
+- .餐厅
 - .香港
 
