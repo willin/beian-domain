@@ -41,10 +41,10 @@ MIT
 
 ![qr](https://cloud.githubusercontent.com/assets/1890238/15489630/fccbb9cc-2193-11e6-9fed-b93c59d6ef37.png)
 
-## 更新时间: 2018-5-8
+## 更新时间: 2018-7-17
 
-- 域名总数: 491
-- 惟一域名: 436
+- 域名总数: 497
+- 惟一域名: 441
 
 ---
 
@@ -167,7 +167,9 @@ MIT
 - .es
 - .et
 - .eu
+- .fashion
 - .fi
+- .fit
 - .fj
 - .fj.cn
 - .fk
@@ -267,6 +269,7 @@ MIT
 - .lt
 - .ltd
 - .lu
+- .luxe
 - .lv
 - .ly
 - .ma
@@ -434,6 +437,7 @@ MIT
 - .xz.cn
 - .ye
 - .yn.cn
+- .yoga
 - .yt
 - .za
 - .zj.cn
@@ -473,6 +477,7 @@ MIT
 - .政務.cn
 - .政務.中国
 - .政務.中國
+- .时尚
 - .游戏
 - .網絡
 - .網絡.cn
